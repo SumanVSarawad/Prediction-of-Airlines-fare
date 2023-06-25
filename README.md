@@ -47,6 +47,6 @@ After looking at the distribution of the data and the value counts for various c
 ![image](https://github.com/SumanVSarawad/Prediction-of-Airlines-fare/assets/118813644/a4bef0bd-8bca-48b2-8279-1f27ee50f8ef)
 
 ### Results
-• Successfully performed data cleaning for airline fare prediction, employing Python libraries and tools to eliminate missing data and outlier errors, resulting in a significant 30% reduction in data inconsistencies.
-• Utilized feature extraction techniques to identify the most influential features from the dataset, achieving an impressive accuracy of 89.3% in airline fare prediction using Random Forest Regression.
+• Successfully performed data cleaning for airline fare prediction, employing Python libraries and tools to eliminate missing data and outlier errors, resulting in a significant 30% reduction in data inconsistencies.<br>
+• Utilized feature extraction techniques to identify the most influential features from the dataset, achieving an impressive accuracy of 90.47 % in airline fare prediction using Random Forest Regression.
 
